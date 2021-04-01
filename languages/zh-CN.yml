@@ -1,23 +1,23 @@
 ---
 name: 简体中文
 title:
-  archive: 归档
-  category: 分类
-  tag: 标签
-  schedule: 日程表
+  archive: 归档 | archive
+  category: 分类 | category
+  tag: 标签 | tag
+  schedule: 日程表 | schedule
 menu:
-  home: 首页
-  archives: 归档
-  categories: 分类
-  tags: 标签
-  about: 关于
-  search: 搜索
-  schedule: 日程表
-  sitemap: 站点地图
-  commonweal: 公益 404
+  home: 首页 | home
+  archives: 归档 | archives
+  categories: 分类 | categories
+  tags: 标签 | tags
+  about: 关于 | about
+  search: 搜索 | search
+  schedule: 日程表 | schedule
+  sitemap: 站点地图 | sitemap
+  commonweal: 公益 404 | commonweal
 sidebar:
-  overview: 站点概览
-  toc: 文章目录
+  overview: 站点概览 | overview
+  toc: 文章目录 | toc
 post:
   posted: 发表于
   edited: 更新于
